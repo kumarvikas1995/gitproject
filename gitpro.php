@@ -13,6 +13,6 @@ echo"this is start to learn gihub technology";
     <title>welcome to github world</title>
 </head>
 <body>
-<h1>most welcome</h1>
+<h1>most welcome in homes</h1>
 </body>
 </html>
